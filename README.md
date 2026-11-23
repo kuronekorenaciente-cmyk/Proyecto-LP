@@ -12,3 +12,5 @@ Juego interactivo de trivia sobre conceptos fundamentales de física desarrollad
 3. Abre una terminal en esa carpeta y ejecuta:
    ```bash
    python quiz_fisica.py
+   <img width="1365" height="766" alt="image" src="https://github.com/user-attachments/assets/c12ff215-6ff5-4764-abba-eebfc6a9c792" />
+
