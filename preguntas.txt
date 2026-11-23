@@ -1,0 +1,12 @@
+¿Cuál es la unidad de fuerza en el Sistema Internacional (SI)?|Joule|Newton|Pascal|Watt|Newton
+¿Cuál es el valor aproximado de la aceleración de la gravedad en la superficie de la Tierra?|9.8 m/s²|1.6 m/s²|3.0 × 10⁸ m/s|100 m/s²|9.8 m/s²
+Según la segunda ley de Newton, ¿a qué equivale la fuerza neta sobre un objeto?|Masa dividida entre aceleración|Velocidad por tiempo|Masa por aceleración|Trabajo entre distancia|Masa por aceleración
+¿Cuál es la rapidez aproximada de la luz en el vacío?|300,000 km/s|150,000 km/s|340 m/s|30,000 km/s|300,000 km/s
+¿Qué magnitud física mide la inercia de un cuerpo?|Peso|Densidad|Masa|Potencia|Masa
+¿Cuál es la unidad del trabajo mecánico y la energía en el SI?|Newton|Joule|Amperio|Voltio|Joule
+¿Qué ley establece que a toda acción corresponde una reacción igual y opuesta?|Primera ley de Newton|Segunda ley de Newton|Tercera ley de Newton|Ley de conservación de la masa|Tercera ley de Newton
+¿Cómo se calcula la energía cinética traslacional de un cuerpo de masa m y rapidez v?|m · g · h|(1/2) · m · v²|m · v|F · d|(1/2) · m · v²
+¿Qué mide el amperio (A) en el Sistema Internacional?|Resistencia eléctrica|Diferencia de potencial|Intensidad de corriente eléctrica|Carga eléctrica|Intensidad de corriente eléctrica
+¿Cuál es la rapidez aproximada del sonido en el aire a temperatura ambiente (20 °C)?|343 m/s|1,500 m/s|3.0 × 10⁸ m/s|9.8 m/s|343 m/s
+¿Qué es la densidad de un material?|Masa dividida entre volumen|Volumen dividido entre masa|Fuerza dividida entre área|Peso por unidad de longitud|Masa dividida entre volumen
+¿Qué magnitud se define como el cambio de posición de un cuerpo respecto a un sistema de referencia?|Aceleración|Desplazamiento|Rapidez|Impulso|Desplazamiento
